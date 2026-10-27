@@ -46,5 +46,7 @@ Analizar los datos de clientes y su comportamiento de uso (mensajes, llamadas y 
 ## 📖 Guía de reproducción
 - Clona el repositorio:  
   ```bash
-https://github.com/Richartmojica19970612/S7 Version-Estudiante-Project-ConnectaTel.ipynb.git
+  
+https://github.com/Richartmojica19970612/sprint7-final-project/blob/d551393254b2433183ec07a5909b99d579795288/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
+
 
