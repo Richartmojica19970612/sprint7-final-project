@@ -46,4 +46,4 @@ Analizar los datos de clientes y su comportamiento de uso (mensajes, llamadas y 
 ## 📖 Guía de reproducción
 - Clona el repositorio:  
   ```bash
-  git clone https://github.com/<usuario>/<repositorio>.git
+  git clone https://github.com/<usuario>/S7 Version-Estudiante-Project-ConnectaTel.ipynb.git
